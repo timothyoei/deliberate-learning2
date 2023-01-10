@@ -48,7 +48,7 @@ gantt
   title XR DL Timeline
   dateFormat MM-DD-YYYY
   section Milestone 1
-    T13: a1, 01-16-2023, 01-29-2023
+    T13: a1, after a3, 08-21-2023
     T14: a2, after a3, 08-21-2023
     T15: a3, 01-09-2023, 05-02-2023
     T16: a4, 01-09-2023, 05-02-2023
